@@ -14,8 +14,8 @@ This repository is dedicated to learning **MQL5**, the language for creating **t
 
 MQL5TUTORIAL.COM teaches MQL5 Trading Robot Programming for MetaTrader 5. A Trading Robot (also called Expert Advisor in MT5) for Forex Trading can trade 24/7 on up to 22 currency pairs while you work, sleep or eat. It trades exact rules, so there are no emotional revenge trades. The trading robot will never get tired, it doesn't break the trading rules for algorithmic trading and you can create your own forex robot with MQL5 which comes for free with the MetaTrader 5 platform.
 
-- YouTube channel: http://www.youtube.com/@mql5tutorial  
-- Website: https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbFduQ1M1WUw2TUJVMGdXazNlam90V2dDcHFkUXxBQ3Jtc0tuQzdKT2M1YnZpM1p0OTdGdlJWaENqSlI4WExoUW1lUmx5dFppTFN5QTM5anJoR2gtWkp6cUVSTEd3V2NzZFR2ZnZFRVNyNU1WT3FGMkhFbFdacXRZQkJKTmJ4ZGtLNF9UR1RtVl8xX3dnNzhGUkcxOA&q=https%3A%2F%2Fmql5tutorial.com  
+- [YouTube channel](http://www.youtube.com/@mql5tutorial)  
+- [Website](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbFduQ1M1WUw2TUJVMGdXazNlam90V2dDcHFkUXxBQ3Jtc0tuQzdKT2M1YnZpM1p0OTdGdlJWaENqSlI4WExoUW1lUmx5dFppTFN5QTM5anJoR2gtWkp6cUVSTEd3V2NzZFR2ZnZFRVNyNU1WT3FGMkhFbFdacXRZQkJKTmJ4ZGtLNF9UR1RtVl8xX3dnNzhGUkcxOA&q=https%3A%2F%2Fmql5tutorial.com)  
 
 
 | No. | Title                                                                                               | Category | URL                                                                                          |
